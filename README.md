@@ -7,5 +7,3 @@ We will only publish the results of our realisation now, and we will open source
 ![Alt text](N+2_github.png)
 ![Alt text](N+1_github.png)
 ![Alt text](N+3_github.png)
-
-## Comming Soon...
